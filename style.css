@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+box-sizing: border-box;
+}
+h1{
+    display:flex ;
+justify-items: start;
+color: purple;
+}
+div{
+margin-left: 600px;
+width: 100px;
+color: white;
+margin-top: 200px;
+}
+ul{
+    width: 100vw;
+    background-color: white;
+    color:black ;
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    list-style-type: none;
+    position: sticky;
+    top: 0;
+}
+body{
+   background-image: url(./WhatsApp\ Image\ 2025-02-15\ at\ 09.10.25_2ace1ef7.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+   height: 200vh;
+}
+button{
+    background-color: purple;
+    width: 20vw;
+    height: 20vh;
+}
+span{
+    color: blueviolet;
+    
+}
+h2{
+
+}
